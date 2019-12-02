@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="218px" height="272px" viewBox="0 0 218 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-184.000000, -258.000000)">
+            <g id="Group-2" transform="translate(184.000000, 258.000000)">
+                <circle id="Oval" fill="#091D64" cx="109" cy="109" r="109"></circle>
+                <path d="M146.018948,123.105531 C140.692477,123.105531 135.462522,122.272461 130.50648,120.634641 C128.077963,119.806328 125.092557,120.566219 123.610389,122.088492 L113.828125,129.47307 C102.483491,123.417281 95.4954154,116.431453 89.5223372,105.171977 L96.6896232,95.6445703 C98.5517355,93.7849453 99.2196401,91.0684609 98.4194234,88.5196328 C96.7745839,83.5375234 95.9390236,78.3100469 95.9390236,72.9812969 C95.9392502,69.1317734 92.8074849,66 88.958198,66 L72.9810521,66 C69.1317653,66 66,69.1317734 66,72.9810703 C66,117.104117 101.896016,153 146.018948,153 C149.868235,153 153,149.868227 153,146.01893 L153,130.086375 C153,126.237305 149.868008,123.105531 146.018948,123.105531 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <text id="CALL" font-family="Geomanist-Book, Geomanist" font-size="30" font-weight="300" fill="#707070">
+                    <tspan x="77.045" y="271">CALL</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
