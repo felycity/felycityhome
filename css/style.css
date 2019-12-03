@@ -16,14 +16,14 @@ body {
 }
 
 a {
-  color: #1bb1dc;
+  color: #071468;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #0a98c0;
+  color: #071468;
   outline: none;
   text-decoration: none;
 }
