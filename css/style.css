@@ -192,7 +192,7 @@ h6 {
 #header .logo {
   position: relative;
 }
-#header .logo::before {
+/* #header .logo::before {
   content: '';
   background: url(../img/santa.gif) no-repeat;
   position: absolute;
@@ -202,7 +202,7 @@ h6 {
   height: 42px;
   z-index: 1;
   background-size: contain;
-}
+} */
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
