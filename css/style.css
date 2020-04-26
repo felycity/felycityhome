@@ -1496,6 +1496,43 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Covid
+--------------------------------------------------------------*/
+
+.covid-btn {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+}
+.covid-btn img {
+  width: 100px;
+}
+.covid {
+  text-align: center;
+  padding-top: 200px;
+}
+.covid a {
+  display: none !important;
+}
+.covid h1 {
+  color: #413e66;
+  margin-bottom: 10px;
+  font-size: 48px;
+  font-weight: 700;
+  padding-bottom: 50px;
+}
+.more-info {
+  padding-top: 50px;
+}
+.more-info img {
+  display: block;
+  width: 100%;
+}
+h5 {
+  font-weight: bold;
+}
+
+/*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
 
@@ -1609,6 +1646,13 @@ h6 {
   #testimonials .testimonial-item h4,
   #testimonials .testimonial-item p {
     margin-left: 0;
+  }
+  .covid{
+    padding: 20px;
+    padding-top: 100px;
+  }
+  .covid h1{
+    padding-bottom: 10px;
   }
 }
 
