@@ -1524,10 +1524,6 @@ h6 {
 .more-info {
   padding-top: 50px;
 }
-.more-info img {
-  display: block;
-  width: 100%;
-}
 h5 {
   font-weight: bold;
 }
@@ -1653,6 +1649,10 @@ h5 {
   }
   .covid h1{
     padding-bottom: 10px;
+  }
+  .more-info img {
+    display: block;
+    width: 100%;
   }
 }
 
