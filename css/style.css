@@ -1654,6 +1654,15 @@ h5 {
     display: block;
     width: 100%;
   }
+  .covid-btn {
+    top: 15px;
+    right: 65px;
+    bottom: inherit;
+    z-index: 1000;
+  }
+  .covid-btn img {
+    width: 75px;
+  }
 }
 
 @media (max-width: 574px) {
